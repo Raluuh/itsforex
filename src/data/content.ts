@@ -339,19 +339,19 @@ export const insights = [
 
 export const founders = [
   {
-    name: "Amani Lyimo",
+    name: "Roy",
     role: "Forex & Markets Specialist",
     image: "/images/founder-markets.jpg",
     focus: "Market analysis, trading education, strategies, research and masterclasses.",
-    bio: "Amani designs the Ralu Markets curriculum and research format. The brief is simple: teach people how markets actually work, how risk compounds, and how to think in process rather than prediction. Sessions emphasise structure, evidence and the unglamorous work of review.",
+    bio: "Roy designs the Ralu Markets curriculum and research format. The brief is simple: teach people how markets actually work, how risk compounds, and how to think in process rather than prediction. Sessions emphasise structure, evidence and the unglamorous work of review.",
     points: ["Curriculum & research notes", "Live masterclasses", "Strategy & risk labs"],
   },
   {
-    name: "Neema Ralu",
+    name: "Ralu_jr",
     role: "Technology, Brand & Growth",
     image: "/images/founder-tech.jpg",
     focus: "Technology, AI, website development, branding, content, marketing and business growth.",
-    bio: "Neema builds the platform, brand system and learning experience around the teaching. The product goal is a serious education company that can grow from Dar es Salaam onto a global stage — with the same restraint the classroom demands: no hype loops, no dark patterns, no fake social proof.",
+    bio: "Ralu_jr builds the platform, brand system and learning experience around the teaching. The product goal is a serious education company that can grow from Dar es Salaam onto a global stage — with the same restraint the classroom demands: no hype loops, no dark patterns, no fake social proof.",
     points: ["Platform & AI tooling", "Brand and content systems", "Growth with integrity"],
   },
 ];
