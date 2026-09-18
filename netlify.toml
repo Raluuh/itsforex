@@ -1,0 +1,8 @@
+[build]
+  # Dependencies are not committed to the repo, so the build installs them
+  # itself. This keeps the build self-contained: some deploy paths (for example
+  # source-zip deploys) do not run a separate dependency-install step, and
+  # `vite` is otherwise not on disk. `npm ci` installs exactly what
+  # package-lock.json specifies.
+  command = "npm ci --no-audit --no-fund && npm run build"
+  publish = "dist"
