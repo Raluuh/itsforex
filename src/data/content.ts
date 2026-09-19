@@ -102,7 +102,7 @@ export const courses: Course[] = [
     level: "Beginner",
     duration: "6 weeks",
     modules: 12,
-    instructor: "Amani Lyimo",
+    instructor: "Roy",
     summary: "Beginner program for understanding the market — language, structure, costs and the habits that keep learners safe.",
     audience: "New learners and professionals who want a clean, institutional-style foundation before touching strategy.",
     outcomes: [
@@ -144,7 +144,7 @@ export const courses: Course[] = [
     level: "Intermediate",
     duration: "8 weeks",
     modules: 16,
-    instructor: "Amani Lyimo",
+    instructor: "Roy",
     summary: "Learn charts, price action and market structure — with a bias toward evidence and against ornamental indicators.",
     audience: "Learners who know the basics and want a coherent chart framework rather than a pile of tools.",
     outcomes: [
@@ -182,7 +182,7 @@ export const courses: Course[] = [
     level: "Advanced",
     duration: "10 weeks",
     modules: 14,
-    instructor: "Amani Lyimo",
+    instructor: "Roy",
     summary: "Advanced concepts, strategy development and risk management for learners ready to treat trading as a research craft.",
     audience: "Disciplined intermediates who can already size risk and want a serious process for building and testing ideas.",
     outcomes: [
@@ -220,7 +220,7 @@ export const courses: Course[] = [
     level: "All levels",
     duration: "Ongoing",
     modules: 8,
-    instructor: "Amani Lyimo",
+    instructor: "Roy",
     summary: "Interactive sessions with the market specialist — walkthroughs of structure, research notes and decision hygiene.",
     audience: "Learners who want live context, questions, and a slower look at how analysis is actually built.",
     outcomes: [
